@@ -3,6 +3,10 @@ With the basics of Python, HTML and CSS knowledge you need to start this tutoria
 
 https://docs.djangoproject.com/en/4.2/contents/
 
+You could check the codes with proper folder and its requirements here in my codespace mentioned below link
+
+https://glorious-spork-v59xpxrgvp5h6ggq.github.dev/
+
 Django documentation contents¶
 
     Getting started
