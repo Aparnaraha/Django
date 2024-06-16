@@ -8,7 +8,7 @@ class company(models.Model):
 
 
 class Employee(models.Model):
-  employee_id = models.IntegerField
+  id = models.IntegerField
   name = models.CharField(max_length=100)
   address = models.CharField(max_length=100) 
   salary = models.FloatField
